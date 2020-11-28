@@ -1,0 +1,4 @@
+#Sat Oct 24 12:19:36 WIB 2020
+base.0=/home/kszxpo/Development/Native/academylmsmobileapp-10/codecanyon-28805615-academy-lms-mobile-app-flutter-ios-android/Academy Flutter Mobile App/academyapp-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
